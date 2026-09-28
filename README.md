@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Torikul Islam</h1>
-<h3 align="center">A passionate full stack developer from BD India</h3>
+<h3 align="center">A passionate full stack developer from BD</h3>
 
 - 🔭 I’m currently working on **Learning**
 
